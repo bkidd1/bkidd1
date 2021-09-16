@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @bkidd1
+- 👋 Hi, I’m @brinleekidd
 - 👀 I’m interested in all things education!
 - 🌱 I’m currently learning coding basics.
 - 📫 You can reach me at brinlee0kidd@gmail.com
