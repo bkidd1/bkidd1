@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bkidd1
 - 👀 I’m interested in all things education!
-- 🌱 I’m currently learning coding basics.
+- 🌱 JavaScript & Python
 - 📫 You can reach me at brinlee0kidd@gmail.com
 
 <!---
