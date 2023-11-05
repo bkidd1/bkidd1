@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @bkidd1
 - 👀 I’m interested in all things education!
-- 🌱 JavaScript & Python
 - 📫 You can reach me at brinlee0kidd@gmail.com
 
 <!---
